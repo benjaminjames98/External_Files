@@ -1,0 +1,2 @@
+rootProject.name='External_Files'
+include ':app'
